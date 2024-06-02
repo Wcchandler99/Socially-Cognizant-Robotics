@@ -1,0 +1,11 @@
+- Python Code
+- Torch
+- SKLearn
+- Transformers
+- Image Classification
+- Computer Vision
+- Tensorflow
+- Keras
+- Reinforcement Learning
+- Mujoco
+- Decision Transformers
